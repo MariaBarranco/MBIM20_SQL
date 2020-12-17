@@ -4,7 +4,7 @@
 /* 1
 Mostrar la fecha actual de la siguiente forma:
 Fecha actual
-sdfawgfaregsdthstthst
+------------------------------
 Sábado, 11 de febrero de 2017. 16:06:06
 
 El día en palabras con la primera letra en mayúsculas, seguida de una coma, el día en números,
